@@ -54,7 +54,7 @@ const Leader = () => {
             facebookId: "meherinnurshaiba"
         },
         {
-            name: "Shaty Akther",
+            name: "Shati Akther",
             position: "Sales Officer",
             image: "https://imgur.com/tDosxj6.jpg",
             facebookId: "sathiakther00000"
@@ -68,7 +68,7 @@ const Leader = () => {
         {
             name: "Nazma Akter",
             position: "Sales Officer",
-            image: "https://imgur.com/TttcxTX.jpg",
+            image: "https://imgur.com/ZB63ZrY.jpg",
             facebookId: "nazma.akter.868966#"
         },
         {
