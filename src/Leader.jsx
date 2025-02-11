@@ -10,55 +10,24 @@ const Leader = () => {
             facebookId: "profile.php?id=100087167029370"
         },
         {
-            name: "Akash Kanti Das",
-            position: "Asst. Sales Manager",
-            image: "https://imgur.com/RVo1bqW.jpg",
-            facebookId: "akashenterpreneurfamily"
-        },
-        {
-            name: "Sajal Islam Rabbi",
-            position: "Asst. Sales Manager",
-            image: "https://imgur.com/aCkQYlZ.jpg",
-            facebookId: "sajalislamrabbi"
-        },
-        {
             name: "Asad Nadim",
             position: "Asst. Sales Manager",
             image: "https://imgur.com/YUZvIF4.jpg",
             facebookId: "nadim015"
         },
         {
-            name: "Tajul Islam",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/bU5jPNG.jpg",
-            facebookId: "MdTajulIslam745"
-        },
-        {
-            name: "MD. Zihad",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/5Dou4EM.jpg",
-            facebookId: "azzihad.07"
-        },
-        {
             name: "Anika Khanam",
-            position: "Senior Sales Officer",
+            position: "Asst. Sales Manager",
             image: "https://imgur.com/wzHsryU.jpg",
             facebookId: "entrepreneuranika09"
         },
         {
-            name: "Farhana Begum",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/OeSKmSC.jpg",
-            facebookId: "FARHANA2.Net"
+            name: "Tajul Islam",
+            position: "Asst. Sales Manager",
+            image: "https://imgur.com/bU5jPNG.jpg",
+            facebookId: "MdTajulIslam745"
         },
-        {
-            name: "রোকাইয়া জাহান",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/16szPOK.jpg",
-            facebookId: "Rukiajahan0"
-        }
-        ,
-        {
+     {
             name: "Rafidul Islam",
             position: "Senior Sales Officer",
             image: "https://imgur.com/qxJn96W.jpg",
@@ -83,6 +52,30 @@ const Leader = () => {
             position: "Sales Officer",
             image: "https://imgur.com/2HkJ7XK.jpg",
             facebookId: "meherinnurshaiba"
+        },
+        {
+            name: "Shaty Akther",
+            position: "Sales Officer",
+            image: "https://imgur.com/tDosxj6.jpg",
+            facebookId: "sathiakther00000"
+        },
+        {
+            name: "Mehedi Hasan",
+            position: "Sales Officer",
+            image: "https://imgur.com/pMkCyjd.jpg",
+            facebookId: "monir.nasrin.56"
+        },
+        {
+            name: "Nazma Akter",
+            position: "Sales Officer",
+            image: "https://imgur.com/TttcxTX.jpg",
+            facebookId: "nazma.akter.868966#"
+        },
+        {
+            name: "Munne Akter",
+            position: "Sales Officer",
+            image: "https://imgur.com/T5SZLyM.jpg",
+            facebookId: "munne.akter.963167"
         }
         // Add more leaders as needed
     ];
