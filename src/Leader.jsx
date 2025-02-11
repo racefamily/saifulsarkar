@@ -24,7 +24,7 @@ const Leader = () => {
         {
             name: "Tajul Islam",
             position: "Asst. Sales Manager",
-            image: "https://imgur.com/bU5jPNG.jpg",
+            image: "https://imgur.com/dQE40fA.jpg",
             facebookId: "MdTajulIslam745"
         },
      {
