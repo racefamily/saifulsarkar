@@ -3,13 +3,7 @@ import React from 'react';
 const Leader = () => {
     // Define arrays of images, titles, positions, and facebook IDs
     const leaders = [
-        {
-            name: "Mehedi Hasan Hira",
-            position: "General Manager",
-            image: "https://imgur.com/Lwk3dOh.jpg",
-            facebookId: "profile.php?id=100087167029370"
-        },
-        {
+               {
             name: "Asad Nadim",
             position: "Asst. Sales Manager",
             image: "https://imgur.com/YUZvIF4.jpg",
@@ -26,12 +20,6 @@ const Leader = () => {
             position: "Asst. Sales Manager",
             image: "https://imgur.com/dQE40fA.jpg",
             facebookId: "MdTajulIslam745"
-        },
-     {
-            name: "Rafidul Islam",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/qxJn96W.jpg",
-            facebookId: "rafidul.islam.7545"
         }
         ,
         {
@@ -53,13 +41,7 @@ const Leader = () => {
             image: "https://imgur.com/2HkJ7XK.jpg",
             facebookId: "meherinnurshaiba"
         },
-        {
-            name: "Shati Akther",
-            position: "Sales Officer",
-            image: "https://imgur.com/tDosxj6.jpg",
-            facebookId: "sathiakther00000"
-        },
-        {
+       {
             name: "Mehedi Hasan",
             position: "Sales Officer",
             image: "https://imgur.com/pMkCyjd.jpg",
