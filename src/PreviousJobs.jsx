@@ -48,7 +48,7 @@ const PreviousJobs = () => {
       name: "Smart Tech OMP",
       position: "Director Admin",
       duration: "July 2026 - Present",
-      logo: "https://imgur.com/tgTWEyn.jpg",
+      logo: "https://imgur.com/3xNjwwL.jpg",
     },
   ];
 
