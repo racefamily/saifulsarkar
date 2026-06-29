@@ -12,7 +12,7 @@ const NavBar = () => {
     {
       icon: FacebookIcon,
       alt: "Facebook",
-      link: "https://www.facebook.com/sisarkarbd",
+      link: "https://www.facebook.com/saifulsarkar.hr/",
     },
     {
       icon: YoutubeIcon,
